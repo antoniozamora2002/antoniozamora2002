@@ -2,10 +2,10 @@
 
 ## About Me
 
-- 🌍 I'm based in [Your Location]
-- 🏫 I'm currently studying [Your Major/Field of Study] at [Your University/School]
-- 💼 I'm currently working at [Your Company/Organization] as a [Your Job Title]
-- 🌱 I'm currently learning [Your Learning Goals]
+- 🌍 I'm based in Perú 🇵🇪
+- 🏫 I'm currently studying [Your Major/Field of Study] at Universidad PeruaNA Unión
+- 💼 I'm currently working at Inmaculada as a [Your Job Title]
+- 🌱 I'm currently learning Machine Learning
 - 👯 I'm looking to collaborate on [Projects or Topics of Interest]
 - 🤔 I'm looking for help with [Any Specific Help Needed]
 - 💬 Ask me about [Your Areas of Expertise]
