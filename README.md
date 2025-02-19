@@ -3,8 +3,8 @@
 ## About Me
 
 - 🌍 I'm based in Perú 🇵🇪
-- 🏫 I'm currently studying [Your Major/Field of Study] at Universidad PeruaNA Unión
-- 💼 I'm currently working at Inmaculada as a [Your Job Title]
+- 🏫 I'm currently studying Systems engineering at Universidad Peruana Unión
+- 💼 I'm currently working at Inmaculada as a Web Application Programmer
 - 🌱 I'm currently learning Machine Learning
 - 👯 I'm looking to collaborate on [Projects or Topics of Interest]
 - 🤔 I'm looking for help with [Any Specific Help Needed]
