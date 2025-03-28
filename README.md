@@ -4,7 +4,7 @@
 
 - 🌍 Based in Peru 🇵🇪
 - 🎓 Systems Engineering student at Universidad Peruana Unión (2021 - Present)
-- 💼 Web Application Developer at Inmaculada
+- 💼 Web App Developer at Inmaculada
 - 🤖 Passionate about Artificial Intelligence and Machine Learning
 - 🚀 Proactive, creative, and highly responsible individual
 
