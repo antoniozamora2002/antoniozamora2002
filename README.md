@@ -26,7 +26,7 @@
 ## 📂 Featured Projects
 
 1. **[PanMovil](https://github.com/antoniozamora2002/PanMovil)** - Mobile application for a bakery, developed in Java and Android Studio.
-2. **[P-Etham](https://github.com/antoniozamora2002/P-Etham)** - Web application built with Angular for a university project.
+2. **[CatalogoDePeliculas](https://github.com/antoniozamora2002/CatalogoDePeliculas)** - Angular project with an API to display movies, TV series, etc.
 3. **[PanStock-Frontend](https://github.com/MarcoRC12/PanStock-Frontend)** - Web platform for a pastry shop, developed in PHP and XAMPP.
 4. **[SoundBrazil](https://github.com/antoniozamora2002/SoundBrazil)** - Interactive mobile app based on movement.
 
