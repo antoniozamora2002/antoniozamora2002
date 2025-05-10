@@ -1,5 +1,14 @@
 # 👋 Hi, I'm Antonio Zamora Pastor
 
+<div align="center">
+  <a href="mailto:antoniozp02@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+<a href="https://linkedin.com/in/antonio-zamora-pastor-9a25182a8">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+</div>
+
 ## About Me
 
 - 🌍 Based in Peru 🇵🇪
@@ -25,9 +34,12 @@
 
 ## 📂 Featured Projects
 
-1. **[PanMovil](https://github.com/antoniozamora2002/PanMovil)** - Mobile application for a bakery, developed in Java and Android Studio.
-2. **[CatalogoDePeliculas](https://github.com/antoniozamora2002/CatalogoDePeliculas)** - Angular project with an API to display movies, TV series, etc.
-3. **[PanStock-Frontend](https://github.com/MarcoRC12/PanStock-Frontend)** - Web platform for a pastry shop, developed in PHP and XAMPP.
+1. **[PanMovil](https://github.com/antoniozamora2002/PanMovil)** - Mobile application for a bakery, developed in Java
+   and Android Studio.
+2. **[CatalogoDePeliculas](https://github.com/antoniozamora2002/CatalogoDePeliculas)** - Angular project with an API to
+   display movies, TV series, etc.
+3. **[PanStock-Frontend](https://github.com/MarcoRC12/PanStock-Frontend)** - Web platform for a pastry shop, developed
+   in PHP and XAMPP.
 4. **[SoundBrazil](https://github.com/antoniozamora2002/SoundBrazil)** - Interactive mobile app based on movement.
 
 ## 📊 GitHub Stats
@@ -35,8 +47,3 @@
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniozamora2002&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniozamora2002&layout=compact&theme=radical)
-
-## 🔗 Connect With Me
-
-- 📧 [antoniozp02@gmail.com](mailto:antoniozp02@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/antonio-zamora-pastor-9a25182a8)
